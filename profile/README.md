@@ -6,7 +6,7 @@ Dokuben is a free and open-source university built by the community, for the com
 
 Right now, our community is building courses, study paths, and open-source tools to make learning more accessible.
 
-* [Browse active projects]([https://github.com/dokuben/repositories](https://github.com/orgs/dokuben/repositories))
-* Look for **good first issues** in our repos
-* Contribute course outlines, study notes, or translations
-* Join discussions and suggest improvements
+* [Browse active projects](https://github.com/orgs/dokuben/repositories).
+* Look for **good first issues** in our repos.
+* Contribute course outlines, study notes, or translations.
+* Join discussions and suggest improvements.
