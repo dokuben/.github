@@ -1,12 +1,11 @@
 ![Open Knowledge for Everyone](welcome.png)
 
-Dokuben is a free and open-source university built by the community, for the community. This project is an attempt to create a **collaborative, global learning platform** where people can learn from curated and high-quality materials
+**Dokuben** は、コミュニティによって作られ、コミュニティのために開かれた、無料・オープンソースの「みんなの大学」です。
+世界中の人々が質の高い教材を共有し、協力して学べるグローバルな学習プラットフォームを目指しています。
 
-## Get Involved
+## 参加しよう！
 
-Right now, our community is building courses, study paths, and open-source tools to make learning more accessible.
-
-* [Browse active projects](https://github.com/orgs/dokuben/repositories).
-* Look for **good first issues** in our repos.
-* Contribute course outlines, study notes, or translations.
-* Join discussions and suggest improvements.
+* [進行中のプロジェクトを見てみる](https://github.com/orgs/dokuben/repositories)
+* リポジトリ内の **good first issues** に挑戦する
+* コースのアウトラインや学習ノート、翻訳の提供
+* ディスカッションに参加し、改善のアイデアを提案
